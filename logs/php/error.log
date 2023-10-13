@@ -6,3 +6,4 @@ Stack trace:
 #2 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/index.php(17): require('/Users/michaelw...')
 #3 {main}
   thrown in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/Fictional-University-Theme/index.php on line 5
+[13-Oct-2023 20:02:43 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-customize-widgets.php on line 905
