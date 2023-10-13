@@ -1,13 +1,8 @@
 <?php
     
-    $names = array('Mike', 'Brad', 'Jane');
-
-    $count = 0;
-
-    while($count < count($names)) {
-        echo "<li>Hi, my name is $names[$count] </li>";
-        $count++;
-    }
+   while(have_posts()) {
+        the_post();
+   }
 
     
 ?>
