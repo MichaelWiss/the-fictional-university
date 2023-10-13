@@ -1,1 +1,8 @@
 [12-Oct-2023 20:38:41 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/Fictional-University-Theme/index.php on line 4
+[13-Oct-2023 17:28:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "the_title" in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/Fictional-University-Theme/index.php:5
+Stack trace:
+#0 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/michaelw...')
+#2 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/index.php(17): require('/Users/michaelw...')
+#3 {main}
+  thrown in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/Fictional-University-Theme/index.php on line 5
