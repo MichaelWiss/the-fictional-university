@@ -7,9 +7,9 @@
         <hr>
       <?php  
    }
-
+   get_footer();
     
 ?>
 
-<p>This is the footer area</p>
+
 
