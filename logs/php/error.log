@@ -11,3 +11,8 @@ Stack trace:
 [14-Oct-2023 18:06:43 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-customize-widgets.php on line 905
 [14-Oct-2023 18:55:00 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "style.css", expecting ")" in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/Fictional-University-Theme/functions.php on line 4
 [14-Oct-2023 20:43:38 UTC] PHP Parse error:  Unmatched '}' in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/Fictional-University-Theme/functions.php on line 8
+[17-Oct-2023 19:35:28 UTC] PHP Parse error:  syntax error, unexpected token "<<", expecting end of file in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-config.php on line 52
+[17-Oct-2023 19:35:35 UTC] PHP Parse error:  syntax error, unexpected token "<<", expecting end of file in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-config.php on line 52
+[17-Oct-2023 19:35:37 UTC] PHP Parse error:  syntax error, unexpected token "<<", expecting end of file in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-config.php on line 52
+[17-Oct-2023 19:35:41 UTC] PHP Parse error:  syntax error, unexpected token "<<", expecting end of file in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-config.php on line 52
+[17-Oct-2023 19:36:49 UTC] PHP Parse error:  syntax error, unexpected token ">>", expecting end of file in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-config.php on line 72
