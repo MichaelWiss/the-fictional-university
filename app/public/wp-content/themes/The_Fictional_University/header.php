@@ -17,6 +17,7 @@
               <li><a href="#">About Us</a></li>
               <li><a href="#">Programs</a></li>
               <li><a href="#">Events</a></li>
+              <li><a href="#">Athletics</a></li>
               <li><a href="#">Campuses</a></li>
               <li><a href="#">Blog</a></li>
             </ul>
