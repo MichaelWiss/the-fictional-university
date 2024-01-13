@@ -49,3 +49,7 @@ Stack trace:
 #2 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/index.php(17): require('/Users/michaelw...')
 #3 {main}
   thrown in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/front-page.php on line 63
+[13-Jan-2024 00:36:16 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/mu-plugins/university-post-types.php on line 6
+[13-Jan-2024 00:36:20 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/mu-plugins/university-post-types.php on line 6
+[13-Jan-2024 00:36:20 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/mu-plugins/university-post-types.php on line 6
+[13-Jan-2024 00:37:21 UTC] PHP Parse error:  syntax error, unexpected token "," in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/mu-plugins/university-post-types.php on line 6
