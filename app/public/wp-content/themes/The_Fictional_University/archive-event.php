@@ -7,9 +7,9 @@ get_header(); ?>
         <?php echo get_theme_file_uri('/images/ocean.jpg') ?>
       )"></div>
       <div class="page-banner__content container container--narrow">
-        <h1 class="page-banner__title">Past Events</h1>
+        <h1 class="page-banner__title">All Events</h1>
         <div class="page-banner__intro">
-          <p>A recap of our past events</p>
+          <p>See what's going on</p>
         </div>
       </div>
     </div>
