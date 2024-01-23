@@ -60,3 +60,31 @@ Stack trace:
 #2 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/index.php(17): require('/Users/michaelw...')
 #3 {main}
   thrown in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/front-page.php on line 28
+[23-Jan-2024 01:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set() in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/functions.php:23
+Stack trace:
+#0 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-hook.php(324): university_adjust_queries(Object(WP_Query))
+#1 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-query.php(1881): do_action_ref_array('pre_get_posts', Array)
+#4 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#5 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp.php(696): WP_Query->query(Array)
+#6 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp.php(816): WP->query_posts()
+#7 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/functions.php(1336): WP->main('')
+#8 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-blog-header.php(16): wp()
+#9 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/index.php(17): require('/Users/michaelw...')
+#10 {main}
+  thrown in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/functions.php on line 23
+[23-Jan-2024 01:24:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function set() in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/functions.php:23
+Stack trace:
+#0 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-hook.php(324): university_adjust_queries(Object(WP_Query))
+#1 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#3 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-query.php(1881): do_action_ref_array('pre_get_posts', Array)
+#4 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp-query.php(3824): WP_Query->get_posts()
+#5 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp.php(696): WP_Query->query(Array)
+#6 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/class-wp.php(816): WP->query_posts()
+#7 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-includes/functions.php(1336): WP->main('')
+#8 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-blog-header.php(16): wp()
+#9 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/index.php(17): require('/Users/michaelw...')
+#10 {main}
+  thrown in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/functions.php on line 23
