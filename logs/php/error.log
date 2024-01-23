@@ -88,3 +88,11 @@ Stack trace:
 #9 /Users/michaelwiss/Local Sites/the-fictional-university/app/public/index.php(17): require('/Users/michaelw...')
 #10 {main}
   thrown in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/functions.php on line 23
+[23-Jan-2024 22:45:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/single-event.php on line 30
+[23-Jan-2024 22:45:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/single-event.php on line 30
+[23-Jan-2024 22:46:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/single-event.php on line 30
+[23-Jan-2024 22:46:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/single-event.php on line 30
+[23-Jan-2024 22:46:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/single-event.php on line 30
+[23-Jan-2024 22:46:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/single-event.php on line 30
+[23-Jan-2024 22:47:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/single-event.php on line 30
+[23-Jan-2024 22:47:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/michaelwiss/Local Sites/the-fictional-university/app/public/wp-content/themes/The_Fictional_University/single-event.php on line 30
