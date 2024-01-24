@@ -27,7 +27,7 @@
         <?php 
             $today = date('Ymd');
             $homepageEvents = new WP_Query(array(
-              'posts_per_page' => 2,
+              'posts_per_page' => -1,
               'post_type' => 'event',
               'meta_key' => 'event_date',
               'orderby' => 'meta_value_num',
@@ -42,7 +42,7 @@
                 array(
                   'key' => 'related_programs',
                   'compare' => 'LIKE',
-                  'value' => get_the_ID()
+                  'value' => '"' . get_the_ID() . '"'
                 )
               )
             ));
