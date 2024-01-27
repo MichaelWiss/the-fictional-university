@@ -22,7 +22,7 @@ function university_post_types() {
 
   register_post_type('program', array(
     'supports' => array('title', 'editor'),
-    'rewrite' => array('slug' => 'professor' ),
+    'rewrite' => array('slug' => 'program' ),
     'has_archive' => true,
     'public' => true,
     'show_in_rest' => true,
@@ -40,6 +40,7 @@ function university_post_types() {
 
   register_post_type('professor', array(
     'supports' => array('title', 'editor'),
+    'rewrite' => array('slug' => 'professor' ),
     'public' => true,
     'show_in_rest' => true,
     'labels' => array(
